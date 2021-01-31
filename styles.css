@@ -12,6 +12,7 @@ h1 {
 .friend {
     background-color: rgb(32, 32, 25);
     margin-top: 2rem;
+    padding-bottom: 1rem;
 }
 
 
@@ -35,5 +36,6 @@ p {
     height: fit-content;
     width: 90vw;
     margin: 3rem auto;
+    
 
 }
